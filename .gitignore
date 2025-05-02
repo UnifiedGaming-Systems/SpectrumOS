@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+dist/
+*.iso
+
+# Environment files
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+tmp/
+
+# System files
+.DS_Store
+Thumbs.db
